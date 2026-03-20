@@ -23,7 +23,7 @@ Plataforma de atendimento psicológico online moderna. con programas terapéutic
 
 ## 📖 Descripción
 
-**MindBalance** es una plataforma digital diseñada para **democratizar el acceso a servicios de salud mental de calidad**. Ofrece un ecosistema completo que combina:
+**MindSpace** es una plataforma digital diseñada para **democratizar el acceso a servicios de salud mental de calidad**. Ofrece un ecosistema completo que combina:
 
 ✨ **Programas terapéuticos estructurados** basados en técnicas de terapia cognitivo-conductual (TCC) y mindfulness
 
@@ -136,8 +136,8 @@ text
 
 #### 1️⃣ Clonar el repositorio
 
-git clone https://github.com/ivanblascoverdu/mindbalance.git
-cd mindbalance
+git clone https://github.com/EduardoDeodato/mindspace.git
+cd mindspace
 
 text
 
@@ -150,7 +150,7 @@ text
 
 Crea un archivo `.env` en `backend/`:
 PORT=4000
-MONGODB_URI=mongodb+srv://tu-usuario:tu-contraseña@cluster.mongodb.net/mindbalance
+MONGODB_URI=mongodb+srv://tu-usuario:tu-contraseña@cluster.mongodb.net/mindspace
 JWT_SECRET=tu-clave-secreta-super-segura
 NODE_ENV=development
 
@@ -204,7 +204,7 @@ text
 
 ## 📁 Estructura del Proyecto
 
-mindbalance/
+mindspace/
 ├── frontend/ # Aplicación React
 │ ├── src/
 │ │ ├── pages/ # Páginas principales
@@ -324,11 +324,11 @@ Este proyecto es parte de un **Trabajo de Fin de Grado en Ingeniería Informáti
 
 ## 👨‍💻 Autor
 
-**Iván Blasco Verdu**
+**Eduardo Deodato Souza Costa**
 
-- 📧 Email: ivanblascoverdu@gmail.com
-- 🔗 GitHub: [@ivanblascoverdu](https://github.com/ivanblascoverdu)
-- 💼 LinkedIn: [Iván Blasco](https://linkedin.com/in/ivanblasco)
+Desenvolvedor em formação focado em sistemas web e arquitetura de software.
+
+- 🔗 GitHub: https://github.com/EduardoDeodato
 
 ---
 
@@ -355,7 +355,7 @@ Para consultas técnicas o reportar problemas:
 
 ### ⭐ Si te gusta el proyecto, ¡déjame una estrella en GitHub!
 
-**[🌟 Star the Repo](https://github.com/ivanblascoverdu/mindbalance)**
+**[🌟 Star the Repo](https://github.com/ivanblascoverdu/mindspace)**
 
 ---
 

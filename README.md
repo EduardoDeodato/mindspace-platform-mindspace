@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EduardoDeodato/mindspace-platform/main/frontend/public/images/logo/mindspace-logo.png" width="250"/>
+</p>
+
 # 🧠 MINDSPACE
 
 Plataforma de atendimento psicológico online moderna. con programas terapéuticos personalizados, teleconsultas profesionales y comunidad de soporte.

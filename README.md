@@ -1,6 +1,6 @@
-# 🧠 MindBalance
+# 🧠 MINDSPACE
 
-> **Plataforma integral de apoyo psicológico** con programas terapéuticos personalizados, teleconsultas profesionales y comunidad de soporte.
+Plataforma de atendimento psicológico online moderna. con programas terapéuticos personalizados, teleconsultas profesionales y comunidad de soporte.
 
 ![Status](https://img.shields.io/badge/status-desarrollo-yellow)
 ![Version](https://img.shields.io/badge/version-0.1.0-blue)

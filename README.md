@@ -1,6 +1,9 @@
 <p align="center">
+  <img src="https://i.postimg.cc/nrYq9Dzw/Logo-Mind-Space-com-equilibrio-mental-5.png" />
+  <img src="https://i.postimg.cc/5yq8QC0K/Logo-Mind-Space-com-foco-em-equilibrio-4.png"/>
   <img src="https://raw.githubusercontent.com/EduardoDeodato/mindspace-platform/main/frontend/public/images/logo/mindspace-logo.png" width="250"/>
 </p>
+
 
 # 🧠 MINDSPACE
 
